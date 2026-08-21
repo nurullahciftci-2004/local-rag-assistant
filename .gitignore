@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local database
+rag_database.db
+rag_database_backup.db
+
+# Uploaded documents
+documents/
+
+# Backup files
+app_backup.py
+retriever_backup.py
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store

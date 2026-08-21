@@ -1,0 +1,7 @@
+foundry-local-sdk==1.2.3
+foundry-local-core==1.2.3
+openai==2.47.0
+numpy==2.5.2
+streamlit==1.61.1
+pypdf==6.15.0
+python-docx==1.2.0
